@@ -1,0 +1,36 @@
+# Created by Octave 4.0.0, Tue Apr 17 15:09:17 2018 CDT <jake@jake-U56E>
+# name: L1
+# type: matrix
+# rows: 1
+# columns: 3
+ 4 18 3
+
+
+# name: L2
+# type: matrix
+# rows: 1
+# columns: 5
+ 4 6 5 3 3
+
+
+# name: L3
+# type: matrix
+# rows: 1
+# columns: 7
+ 4 11 19 14 13 8 3
+
+
+# name: L4
+# type: matrix
+# rows: 1
+# columns: 8
+ 4 4 7 16 12 18 18 3
+
+
+# name: L5
+# type: matrix
+# rows: 1
+# columns: 9
+ 4 2 10 9 20 17 9 19 3
+
+
